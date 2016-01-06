@@ -1,0 +1,1 @@
+Progetto migrato da Eclipse a Android Studio dalla vers. 27
